@@ -1,1 +1,1 @@
-this is new sample.txt
+03/28/16: This is sample.txt file
