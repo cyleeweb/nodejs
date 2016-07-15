@@ -20,4 +20,4 @@ http.createServer(function(req, res){
     
     
 }).listen(1337, '127.0.0.1');
-console.log ('Web server has started!');
+console.log ('Web server has started @http://127.0.0.1:1337!');
